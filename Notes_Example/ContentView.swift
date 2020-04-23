@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  Notes_Example
-//
-//  Created by Jeremiah Kistler on 4/23/20.
-//  Copyright © 2020 Jeremiah Kistler. All rights reserved.
-//
-
 import SwiftUI
 
 struct ContentView: View {
